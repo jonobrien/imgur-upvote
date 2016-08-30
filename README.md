@@ -9,3 +9,4 @@ source code for imgur update blinking board
 
 OP wanted open source [comment](https://imgur.com/gallery/RtQPl/comment/708039170)
 
+OP added [pictures](http://imgur.com/gallery/pU8Ca)
