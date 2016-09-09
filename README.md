@@ -7,6 +7,8 @@ source code for imgur update blinking board
 
 [schematic](https://i.imgur.com/Vc79JhZ.jpg)
 
+OP is [jarek319](https://github.com/jarek319)
+
 OP wanted open source [comment](https://imgur.com/gallery/RtQPl/comment/708039170)
 
 OP added [pictures](http://imgur.com/gallery/pU8Ca)
